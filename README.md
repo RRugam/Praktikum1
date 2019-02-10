@@ -27,3 +27,6 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+
+Tehtud antud õpetuse järgi --- https://developer.okta.com/blog/2018/12/03/bootiful-spring-boot-java-vue-typescript
